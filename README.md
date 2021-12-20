@@ -6,7 +6,7 @@
 - Grid and Flexbox
 - SCSS
 - BEM
-- 
+
 ## Description
 Fully responsive landing page for a real estate company
 
